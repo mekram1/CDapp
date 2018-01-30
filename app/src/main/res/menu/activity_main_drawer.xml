@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="@string/app_home"/>
+        <item
+            android:id="@+id/companies"
+            android:icon="@drawable/ic_business_black_24dp"
+            android:title="@string/app_companies"/>
+        <item
+            android:id="@+id/scholarships"
+            android:icon="@drawable/ic_school_black_24dp"
+            android:title="@string/app_scholarships"/>
+        <item
+            android:id="@+id/tutor"
+            android:icon="@drawable/ic_person_black_24dp"
+            android:title="@string/app_tutor"/>
+        <item
+            android:id="@+id/hireCoders"
+            android:icon="@drawable/ic_person_outline_black_24dp"
+            android:title="@string/app_hireCoders"/>
+        <item
+            android:id="@+id/aboutUs"
+            android:icon="@drawable/ic_content_copy_black_24dp"
+            android:title="@string/app_aboutUs"/>
+    </group>
+</menu>

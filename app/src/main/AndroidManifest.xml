@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.ekram.codedoor">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/logo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/logo"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme.NoActionBar">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Scholarships"
+        android:label="Scholarships"/>
+
+        <activity android:name=".Tutor"
+            android:label="Become a Tutor"/>
+
+        <activity android:name=".AboutUs"
+            android:label="About Us!"/>
+
+        <activity android:name=".Companies"
+            android:label="For Companies"/>
+
+        <activity android:name=".HireCoders"
+            android:label="Hire Coders"/>
+
+        <activity android:name=".Home"
+            android:label="Home"/>
+    </application>
+
+</manifest>

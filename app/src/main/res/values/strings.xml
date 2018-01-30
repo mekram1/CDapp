@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">CodeDoor</string>
+
+    <string name="app_home">Home</string>
+    <string name="app_main">Welcome to CODEDOOR!</string>
+    <string name="app_slideshow">SlideShow</string>
+    <string name="app_companies">For Companies</string>
+    <string name="app_tutor">Become a Tutor</string>
+    <string name="app_aboutUs">About Us</string>
+    <string name="app_scholarships">Scholarships</string>
+    <string name="app_hireCoders">Hire Coders</string>
+
+
+
+
+    <string name="action_settings">setting</string>
+    <string name="appMenuName">MENU</string>
+
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+</resources>
